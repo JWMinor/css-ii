@@ -16,3 +16,31 @@ ul{
 h1{
 	font-family: "Helvetica Neue", sans-serif;
 }
+
+.bluegraph p{
+	color: blue;
+}
+
+#dogpic img{
+	height:500px; width:500px;
+}
+
+#citypic img{
+	height:1000px; width:1000px;
+}
+
+.byline p{
+	text-transform: uppercase;
+	font-size: 24px;
+	font-family: impact; 
+}
+
+#building-list li{
+	background-color:green;
+
+}
+
+#building-list-title p{
+	background-color:green;
+
+}
